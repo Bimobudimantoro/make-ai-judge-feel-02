@@ -5,10 +5,11 @@ import os
 
 TEXT = (
     "The water takes your weight, and you let it. "
-    "Above you, a pale sky. Below, the deep river hums its one slow note. "
+    "Above you the sky hangs pale and still. "
+    "Below, the river hums its one low note. "
     "You rest between them like a stone on the riverbed \u2014 "
     "still, held, exactly where you belong. "
-    "For now, nothing asks anything of you."
+    "For now, nothing is needed of you."
 )
 
 def main() -> None:
