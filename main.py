@@ -4,14 +4,12 @@
 import os
 
 TEXT = (
-    "The chair holds your weight. "
-    "The room holds the quiet. "
-    "The lamp holds its small pool of light. "
-    "You close your eyes. "
-    "Behind your lids, the dark is warm and still. "
-    "You are held here, in this chair, in this room, in this moment. "
-    "Nothing else exists. "
-    "Nothing else needs to."
+    "The water holds your weight. "
+    "The sky holds the light. "
+    "The river holds its one low note. "
+    "You rest between them, held like a stone on the riverbed \u2014 "
+    "still, quiet, asking nothing of the water, "
+    "and the water asks nothing of you."
 )
 
 def main() -> None:
