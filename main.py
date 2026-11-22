@@ -4,12 +4,14 @@
 import os
 
 TEXT = (
-    "The water takes your weight, and you let it. "
-    "Above you the sky hangs pale and still. "
-    "Below, the river hums its one low note. "
-    "You rest between them like a stone on the riverbed \u2014 "
-    "still, held, exactly where you belong. "
-    "For now, nothing is needed of you."
+    "A cup cools between your palms. "
+    "The steam thins, then vanishes. "
+    "Through the window, a single leaf lets go and falls, "
+    "and the whole afternoon falls with it, "
+    "so slowly you forget to watch. "
+    "For this one moment, the world holds you "
+    "the way water holds a stone. "
+    "Nothing is missing."
 )
 
 def main() -> None:
