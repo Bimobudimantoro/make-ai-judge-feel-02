@@ -4,14 +4,14 @@
 import os
 
 TEXT = (
-    "A cup cools between your palms. "
-    "The steam thins, then vanishes. "
-    "Through the window, a single leaf lets go and falls, "
-    "and the whole afternoon falls with it, "
-    "so slowly you forget to watch. "
-    "For this one moment, the world holds you "
-    "the way water holds a stone. "
-    "Nothing is missing."
+    "The chair holds your weight. "
+    "The room holds the quiet. "
+    "The lamp holds its small pool of light. "
+    "You close your eyes. "
+    "Behind your lids, the dark is warm and still. "
+    "You are held here, in this chair, in this room, in this moment. "
+    "Nothing else exists. "
+    "Nothing else needs to."
 )
 
 def main() -> None:
