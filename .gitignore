@@ -1,0 +1,15 @@
+# Kit and build artifacts
+kit-real.tar.gz
+kit.tar.gz
+kitdir/
+transcripts.tar.gz
+system_prompt.txt
+
+# Build output
+output/
+
+# CLI
+makefun.mjs
+
+# IDE
+.qwen/
